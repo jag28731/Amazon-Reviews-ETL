@@ -4,7 +4,7 @@
 Since my work with Jennifer on the SellBy project was so successful, I was tasked with another, larger project: analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
 ### Purpose
-In this project, picked the pet product dataset and used PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. I used PySpark, Pandas, or SQL to determine if there was any bias toward favorable reviews from Vine members in my dataset. 
+In this project, I picked the pet product dataset and used PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. I used PySpark, Pandas, or SQL to determine if there was any bias toward favorable reviews from Vine members in my dataset. 
 
 ## Amazon Reviews ETL Results
 Below are the results after performing the ETL process, transforming the data, connecting to an AWS RDS instance, and loading the data into pgAdmin:
@@ -41,4 +41,4 @@ Below are the results after performing the ETL process, transforming the data, c
 
 ## Amazon Reviews ETL Summary
 
-XXX
+As a result of my analysis, in the pet product data set, there is no positivy bias for the Vine program.  The Vine program has 170 total reviews with 65 of those being a 5-star review for an average of ~38%. In the non-Vine program results, there was a total of 37,840 reviews with 20,612 of those being a 5-star review for a average of ~54%. Non-Vine programs members left more review, 5-star reviews for a higher percentage than the Vine program members. 
