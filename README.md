@@ -11,25 +11,33 @@ Below are the results after performing the ETL process, transforming the data, c
 
 - How many Vine reviews and non-Vine reviews were there?
 
-  - Vine Reviews:
-![1]()
+Vine Reviews:
+  
+![1](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Vine%20Reviews.PNG)
 
-  - Non-Vine reviews:
-![2]()
+Non-Vine reviews:
+  
+![2](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Non%20Vine%20Reviews.PNG)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-  - Vine 5 Star Reviews:
-![3]()
 
-  - Non-Vine 5 Star Reviews:
-![4]()
+Vine 5 Star Reviews:
+  
+![3](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Vine%20%205%20Star.PNG)
+
+Non-Vine 5 Star Reviews:
+  
+![4](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Non%20Vine%205%20Star.PNG)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  - Percentage of Vine 5 Star Reviews:
-![5]()
 
-  - Percentage of Non-Vine 5 Star Reviews:
-![6]()
+Percentage of Vine 5 Star Reviews:
+  
+![5](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Vine%20Percentage.PNG)
+
+Percentage of Non-Vine 5 Star Reviews:
+  
+![6](https://github.com/jag28731/Amazon-Reviews-ETL/blob/main/Resources/Non%20Vine%20Percentage.PNG)
 
 ## Amazon Reviews ETL Summary
 
